@@ -5,7 +5,7 @@ let tblBody = `<tr>
                     <th style="background-color: black;">#</th>
                     <th style="background-color: black;">Countries</th>
                     <th style="background-color: black;">Flags</th>
-                    <th style="background-color: black;">National Language</th>
+                    <th style="background-color: black;">Capital</th>
                 </tr>`;
 
 let tblBody2 = ``;
